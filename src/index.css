@@ -80,6 +80,7 @@ body {
 }
 .movie-card .left img {
   height: 300px;
+  width: 300px;
 }
 .movie-card .right {
   position: relative;

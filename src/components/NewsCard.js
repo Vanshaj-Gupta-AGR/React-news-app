@@ -12,7 +12,7 @@ class NewsCard extends React.Component {
   return (
     <div className="movie-card">
         <div className="left">
-            <img alt="movie-poster" src={news.urlToImage} />
+            <img alt="news-poster" src={news.urlToImage} />
         </div>
         <div className="right">
 
